@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+}
+.margin-auto{
+    margin: auto;
+}
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+}
+.character-container{
+    background-color: black;
+    margin: 6px 0;
+    flex-basis: calc(100%/3);
+}
+.character{
+    width: 75%;
+    display: block;
+}
